@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Daniel!
 
-💻 Desenvolvedor Backend Java em construção  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIFOR  
-🚀 Apaixonado por tecnologia, aprendizado contínuo e construção de soluções reais  
+ Desenvolvedor Backend Java em construção  
+ Estudante de Análise e Desenvolvimento de Sistemas - UNIFOR  
+ Apaixonado por tecnologia, aprendizado contínuo e construção de soluções reais  
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 Atualmente estou em transição de carreira do varejo para a tecnologia — e não volto atrás! ⚡  
 Sou resiliente, curioso e movido por desafios.  
@@ -15,7 +15,7 @@ Estou desenvolvendo projetos próprios para consolidar minha base em backend e c
 
 ---
 
-## 🚀 Projeto em destaque
+##  Projeto em destaque
 
 ### 🔗 Tealk — Rede social baseada em interesses reais
 
